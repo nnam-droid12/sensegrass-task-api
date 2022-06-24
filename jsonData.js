@@ -1,4 +1,4 @@
-const mapLocation = [
+const data = [
     {
       id: 0,
       country: 'South Africa',
@@ -72,5 +72,5 @@ const mapLocation = [
 ]
 
 module.exports =({
-  mapLocation: mapLocation
+  data: data
 })
